@@ -1,5 +1,4 @@
 import 'package:flutter/cupertino.dart';
-
 import 'question.dart';
 
 class QuizBrain {
